@@ -1,0 +1,117 @@
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\train	 dataset: /
+sub-directory:	/.	 num samples: 3555
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 636
+Acc:0.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 636
+Acc:100.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\train	 dataset: /
+sub-directory:	/.	 num samples: 3555
+Acc:100.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid_notext	 dataset: /
+sub-directory:	/.	 num samples: 2919
+Acc:100.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\test1	 dataset: /
+sub-directory:	/.	 num samples: 609
+Acc:0.493
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\test1	 dataset: /
+sub-directory:	/.	 num samples: 609
+Acc:99.672
+dataset_root:    dataset/IC03_860	 dataset: /
+sub-directory:	/.	 num samples: 860
+Acc:0.000

@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: C:\Users\yuzai\Documents\imFiles\Gras\NLP\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: C:\Users\yuzai\Documents\imFiles\Gras\NLP\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: C:\Users\yuzai\Documents\imFiles\Gras\NLP\GDUFS-MSTD6000\lmdb\
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']

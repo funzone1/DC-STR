@@ -1,0 +1,3 @@
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 1364
+Acc:74.707

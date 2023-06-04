@@ -1,0 +1,6 @@
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000

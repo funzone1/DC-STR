@@ -1,0 +1,33 @@
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 636
+Acc:75.314
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 636
+Acc:90.094
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid_notext	 dataset: /
+sub-directory:	/.	 num samples: 2919
+Acc:99.863
+dataset_root:    dataset	 dataset: /
+sub-directory:	/IC03_860	 num samples: 860
+Acc:0.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 636
+Acc:96.698
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 636
+Acc:96.698
+dataset_root:    D:\dataset\CTW1500\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 62
+Acc:0.000
+dataset_root:    D:\dataset\CTW1500\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 62
+Acc:0.000
+dataset_root:    D:\dataset\CTW1500\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 62
+Acc:0.000
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 636
+Acc:96.698
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 1364
+Acc:30.792

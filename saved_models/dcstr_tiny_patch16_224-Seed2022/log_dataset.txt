@@ -1,0 +1,703 @@
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 432
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train2']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train2']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 755
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\GDUFS-MSTD6000\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\GDUFS-MSTD6000\lmdb\valid	 dataset: /
+sub-directory:	/.	 num samples: 766
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\train
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 4892
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: dataset
+opt.select_data: ['IC03_860']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\Chinese_data\Chinese_dataset\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 20000
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Korean\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Korean\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 3513
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Japanese\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Japanese\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 1560
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Japanese\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Japanese\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 1560
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\chinese_dataset\LSVT-2\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\chinese_dataset\LSVT-2\lmdb\test	 dataset: /
+sub-directory:	/.	 num samples: 20673
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Arabic\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Arabic\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Arabic\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Arabic\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Japanese\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Japanese\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 1560
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Bangla\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Bangla\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 1589
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: D:\dataset\multi-language\Arabic\lmdb
+opt.select_data: ['train']
+opt.batch_ratio: ['1']
+dataset_root:    D:\dataset\multi-language\Arabic\lmdb\val	 dataset: /
+sub-directory:	/.	 num samples: 1364
+--------------------------------------------------------------------------------

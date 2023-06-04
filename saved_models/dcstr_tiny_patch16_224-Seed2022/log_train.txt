@@ -1,0 +1,395 @@
+[1/1] Train loss: 0.06147, Valid loss: 0.17779, Elapsed_time: 3.31056
+Current_accuracy : 75.472, Current_norm_ED  : 0.82
+Best_accuracy    : 75.472, Best_norm_ED     : 0.82
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+AWASKERETAAPIDUASEPUR     | AWASKERETAAPIDUASEPUR     | 0.0143	True
+CowellTower               | CowellTower               | 0.1379	True
+PRAMBANAN                 | PRAMBANAN                 | 0.4533	True
+ZONASEKOLAH!              | ZONASEKOLAH!              | 0.2624	True
+JL.MALIOBORO$$$           | JL.MALIOBORO$$$           | 0.2952	True
+--------------------------------------------------------------------------------
+[1/1] Train loss: 0.06147, Valid loss: 0.17779, Elapsed_time: 3.41206
+Current_accuracy : 75.472, Current_norm_ED  : 0.82
+Best_accuracy    : 75.472, Best_norm_ED     : 0.82
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+AWASKERETAAPIDUASEPUR     | AWASKERETAAPIDUASEPUR     | 0.0143	True
+CowellTower               | CowellTower               | 0.1379	True
+PRAMBANAN                 | PRAMBANAN                 | 0.4531	True
+ZONASEKOLAH!              | ZONASEKOLAH!              | 0.2624	True
+JL.MALIOBORO$$$           | JL.MALIOBORO$$$           | 0.2952	True
+--------------------------------------------------------------------------------
+[1/1] Train loss: 0.13839, Valid loss: 0.14497, Elapsed_time: 2.93528
+Current_accuracy : 90.094, Current_norm_ED  : 0.97
+Best_accuracy    : 90.094, Best_norm_ED     : 0.97
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+AWASKERETAAPIDUASEPUR     | AWASKERETAAPIDUASEPUR     | 0.0404	True
+CowellTower               | CowellTower               | 0.3982	True
+PRAMBANAN                 | PRAMBANAN                 | 0.3122	True
+ZONASEKOLAH!              | ZONASEKOLAH!              | 0.3216	True
+JL.MALIOBORO$$$           | JL.MALIOBORO$$$           | 0.3171	True
+--------------------------------------------------------------------------------
+[1/1] Train loss: 0.08509, Valid loss: 0.19350, Elapsed_time: 3.46661
+Current_accuracy : 75.000, Current_norm_ED  : 0.90
+Best_accuracy    : 75.000, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+AWASKERETAAPIDUASEPUR     | AWASKERETAAPIDUASEPUR     | 0.0102	True
+CowellTower               | CowellTower               | 0.1527	True
+PRAMBANAN                 | PRAMBANAN                 | 0.2618	True
+ZONASEKOLAH!              | ZONASEKOLAH!              | 0.3329	True
+JL.MALIOBORO$$$           | JL.MALIOBORO$$$           | 0.2888	True
+--------------------------------------------------------------------------------
+[1/1] Train loss: 0.08115, Valid loss: 0.17230, Elapsed_time: 2.91924
+Current_accuracy : 82.704, Current_norm_ED  : 0.94
+Best_accuracy    : 82.704, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+AWASKERETAAPIDUASEPUR     | AWASKERETAAPIDUASEPUR     | 0.0315	True
+CowellTower               | CowellTower               | 0.2599	True
+PRAMBANAN                 | PRAMBANAN                 | 0.3156	True
+ZONASEKOLAH!              | ZONASEKOLAH!              | 0.2637	True
+JL.MALIOBORO$$$           | JL.MALIOBORO$$$           | 0.3258	True
+--------------------------------------------------------------------------------
+[1/10] Train loss: 0.06437, Valid loss: 0.21740, Elapsed_time: 2.96941
+Current_accuracy : 66.352, Current_norm_ED  : 0.87
+Best_accuracy    : 66.352, Best_norm_ED     : 0.87
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+AWASKERETAAPIDUASEPUR     | AWASKERBTAAPIDUASEPUR     | 0.0229	False
+CowellTower               | CowellTower               | 0.1432	True
+PRAMBANAN                 | PRAMBANAN                 | 0.2714	True
+ZONASEKOLAH!              | ZONASEKOLAH!              | 0.2046	True
+JL.MALIOBORO$$$           | JL.MALIOBORO$$$           | 0.3149	True
+--------------------------------------------------------------------------------
+[2/10] Train loss: 0.16823, Valid loss: 0.23575, Elapsed_time: 10.64685
+Current_accuracy : 67.610, Current_norm_ED  : 0.94
+Best_accuracy    : 67.610, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+GRAMEDIA                  | GRAMEUUR                  | 0.0109	False
+MIE,GORENG                | MIE,GORENG                | 0.0267	True
+KESBANGPOL                | KESBANGPOL                | 0.1798	True
+KIKINOVIwarung            | KIKINOVIwarung            | 0.0518	True
+KedatanganArrival$$$$$$   | KedatanganArrival$$$$$$   | 0.1444	True
+--------------------------------------------------------------------------------
+[3/10] Train loss: 0.17438, Valid loss: 0.25291, Elapsed_time: 18.01606
+Current_accuracy : 55.660, Current_norm_ED  : 0.75
+Best_accuracy    : 67.610, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+NASI,PECEL                | NASI                      | 0.2107	False
+GBcollectiongrosir&eceran | GBcollectoo               | 0.0154	False
+NEWSIGNATUREMILD$$$       | NEWSIGNATUREMILD$$$       | 0.0059	True
+SILVERCLAS                | SILVEECLAS                | 0.1075	False
+AlfamartTRp               | AlfaaartTRp               | 0.0536	False
+--------------------------------------------------------------------------------
+[4/10] Train loss: 0.25552, Valid loss: 0.18729, Elapsed_time: 25.29172
+Current_accuracy : 77.201, Current_norm_ED  : 0.95
+Best_accuracy    : 77.201, Best_norm_ED     : 0.95
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+GAGALKANOMNIBUSUKLAW      | GAGALKANOMNIBUSUKLAW      | 0.3284	True
+GBcollectiongrosir&eceran | GBcollectiongrosir&eceran | 0.0003	True
+AromaBOLDA                | AromaBOLDA                | 0.0704	True
+mandiritaspen             | mandiritaspen             | 0.1619	True
+Ramayana                  | Ramayana                  | 0.2999	True
+--------------------------------------------------------------------------------
+[5/10] Train loss: 0.14695, Valid loss: 0.15812, Elapsed_time: 32.72255
+Current_accuracy : 88.994, Current_norm_ED  : 0.97
+Best_accuracy    : 88.994, Best_norm_ED     : 0.97
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Sondoro                   | Sondoro                   | 0.3910	True
+SLANKERSJAMJAG            | SLANKERSJAMJAG            | 0.1523	True
+AUDITORIUMJOHN-THOMBAJAWA | AUDITORIUMJOHN-THOMBAJAWA | 0.0068	True
+SEDERHANA                 | SEDERHANA                 | 0.1895	True
+LPMPLAMPUNG               | LPMPLAMPUNG               | 0.1248	True
+--------------------------------------------------------------------------------
+[6/10] Train loss: 0.15091, Valid loss: 0.13394, Elapsed_time: 40.16712
+Current_accuracy : 93.239, Current_norm_ED  : 0.98
+Best_accuracy    : 93.239, Best_norm_ED     : 0.98
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+asuransiJasindo           | asuransiJasindo           | 0.0158	True
+DJARUMSUPER               | DAARUMSUPER               | 0.1471	False
+BOROBUDUR                 | BOROBUDUR                 | 0.2650	True
+SPRINGRESTAURANTHot       | SPRINGRESTAURANTHot       | 0.0924	True
+NARKOBAPRESTASINOYR       | NARKOBAPRESTASINOYR       | 0.2393	True
+--------------------------------------------------------------------------------
+[7/10] Train loss: 0.13166, Valid loss: 0.12453, Elapsed_time: 47.52220
+Current_accuracy : 94.969, Current_norm_ED  : 0.99
+Best_accuracy    : 94.969, Best_norm_ED     : 0.99
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+BUBURAYAMBANDUNG          | BUBURAYAMBANDUNG          | 0.3036	True
+STADIONLEBIJAGABAJAWA$$$  | STADIONLEBIJAGABAJAWA$$$  | 0.0222	True
+Ramayana                  | Ramayana                  | 0.3666	True
+KopiWarung                | KopiWarung                | 0.0387	True
+Danamon                   | Danamon                   | 0.3505	True
+--------------------------------------------------------------------------------
+[8/10] Train loss: 0.11382, Valid loss: 0.11943, Elapsed_time: 55.14057
+Current_accuracy : 96.226, Current_norm_ED  : 0.99
+Best_accuracy    : 96.226, Best_norm_ED     : 0.99
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+CERVICETV                 | CERVICETV                 | 0.3777	True
+LUARBARUDALEMSAMA         | LUARBARUDALEMSAMA         | 0.1247	True
+JL.SUWETA$$$              | JL.SUWETA$$$              | 0.2641	True
+WARUNGFITRI               | WARUNGFITRI               | 0.1709	True
+WaultaCIKINI              | WaultaCIKINI              | 0.0840	True
+--------------------------------------------------------------------------------
+[9/10] Train loss: 0.10444, Valid loss: 0.11514, Elapsed_time: 62.67394
+Current_accuracy : 96.698, Current_norm_ED  : 0.99
+Best_accuracy    : 96.698, Best_norm_ED     : 0.99
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+JOMBANGBERIMAN            | JOMBANGBERIMAN            | 0.0844	True
+PENITIPANMOTORBABE        | PENITIPANMOTORBABE        | 0.2403	True
+WARUNG18+ABDULLAH         | WARUNG18+ABDULLAH         | 0.1252	True
+HIP-HOP                   | HIP-HOP                   | 0.3956	True
+ShampooShampooCond2540    | ShampooShampooCond2540    | 0.2601	True
+--------------------------------------------------------------------------------
+[10/10] Train loss: 0.07582, Valid loss: 0.11464, Elapsed_time: 70.10677
+Current_accuracy : 96.698, Current_norm_ED  : 0.99
+Best_accuracy    : 96.698, Best_norm_ED     : 0.99
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+APOTEK                    | APOTEK                    | 0.3151	True
+LAPAU                     | LAPAU                     | 0.3785	True
+                          |                           | 0.0000	True
+LAGOIBAY                  | LAGOIBAY                  | 0.5155	True
+PERSATUAN                 | PERSATUAN                 | 0.5409	True
+--------------------------------------------------------------------------------
+[1/1] Train loss: 3.35706, Valid loss: 4.27114, Elapsed_time: 2.87099
+Current_accuracy : 30.718, Current_norm_ED  : 0.42
+Best_accuracy    : 30.718, Best_norm_ED     : 0.42
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Mall@Alam Sutera          |                           | 0.0000	False
+AromaBOLDA                | AromaBOLDA                | 0.0191	True
+PANTIASHABUL KAHFI        |                           | 0.0000	False
+Danareksa                 | DanareksaanagEaatyyheaten | 0.0000	False
+OPTIK HES,                |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 2.10996, Valid loss: 4.44113, Elapsed_time: 4.91238
+Current_accuracy : 33.138, Current_norm_ED  : 0.44
+Best_accuracy    : 33.138, Best_norm_ED     : 0.44
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Mall@Alam Sutera          |                           | 0.0000	False
+AromaBOLDA                | AromaBOLDA                | 0.0077	True
+PANTIASHABUL KAHFI        |                           | 0.0000	False
+Danareksa                 | Danareksa                 | 0.0667	True
+OPTIK HES,                |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 4.46497, Valid loss: 4.10217, Elapsed_time: 5.01772
+Current_accuracy : 22.434, Current_norm_ED  : 0.41
+Best_accuracy    : 22.434, Best_norm_ED     : 0.41
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Mall@Alam Sutera          |                           | 0.0000	False
+AromaBOLDA                | AromaBOLDA                | 0.0013	True
+PANTIASHABUL KAHFI        |                           | 0.0000	False
+Danareksa                 | DanareksaluagEagtyyheaYen | 0.0000	False
+OPTIK HES,                | BgRAA                     | 0.0440	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 4.81083, Valid loss: 3.97142, Elapsed_time: 5.10214
+Current_accuracy : 13.563, Current_norm_ED  : 0.35
+Best_accuracy    : 13.563, Best_norm_ED     : 0.35
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+mallalamsutera            |                           | 0.0000	False
+aromabolda                | aromaboldauullnugaupsatl  | 0.0000	False
+pantiashabulkahfi         | eannnaiiauuunieniai       | 0.0000	False
+danareksa                 | dandreksalnaoeagtyyheaten | 0.0000	False
+optikhes                  | baraa                     | 0.0530	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 3.16878, Valid loss: 3.89680, Elapsed_time: 5.03104
+Current_accuracy : 13.856, Current_norm_ED  : 0.37
+Best_accuracy    : 13.856, Best_norm_ED     : 0.37
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Mall@Alam Sutera          |                           | 0.0000	False
+AromaBOLDA                | AromaBLLDAULLLnOKKUNAATl  | 0.0000	False
+PANTIASHABUL KAHFI        | TANNAASIAATTLKKHAA$$A     | 0.0000	False
+Danareksa                 | DanareksalnaoEagviyreaten | 0.0000	False
+OPTIK HES,                | HROAAAGNAONNAAANNT        | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 75.22258, Valid loss: 5.26525, Elapsed_time: 6.90517
+Current_accuracy : 0.000, Current_norm_ED  : 0.04
+Best_accuracy    : 0.000, Best_norm_ED     : 0.04
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ZeeP&D IKBALTOKO          | uzzzzzzzzzz%%%%%%HA5HIIII | 0.0000	False
+IDUL FITRISATYADHARMA     | GzzzHzzzzzz%z%fi%AA5AIII% | 0.0000	False
+KELUARGABERENCANA         | Izzzzzzzzzz%z%%5%H55IIH5% | 0.0000	False
+YukNabungSaham            | IzzzHHzzzzz%z%ff5HI5HIIA% | 0.0000	False
+ANTAI KUT                 | uIzzzHzzGzz%z%f5%HAIHII5H | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 247.37331, Valid loss: 0.26888, Elapsed_time: 4.79253
+Current_accuracy : 60.265, Current_norm_ED  : 0.85
+Best_accuracy    : 60.265, Best_norm_ED     : 0.85
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ZeeP&D IKBALTOKO          | ZeeP&D IKBALTOKO          | 0.0100	True
+IDUL FITRISATYADHARMA     | IDUL FITRISATYADHARMA     | 0.0064	True
+KELUARGABERENCANA         | KEEUAAGABEEENCA           | 0.0152	False
+YukNabungSaham            | YukaabungSaha             | 0.0021	False
+ANTAI KUT                 | ANTAI KUT                 | 0.1455	True
+--------------------------------------------------------------------------------
+[1/1] Train loss: 4.80014, Valid loss: 4.81296, Elapsed_time: 18.00314
+Current_accuracy : 0.530, Current_norm_ED  : 0.00
+Best_accuracy    : 0.530, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ZeeP&D IKBALTOKO          |                           | 0.0000	False
+IDUL FITRISATYADHARMA     |                           | 0.0000	False
+KELUARGABERENCANA         |                           | 0.0000	False
+YukNabungSaham            |                           | 0.0000	False
+ANTAI KUT                 |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 4.80026, Valid loss: 4.81674, Elapsed_time: 7.00514
+Current_accuracy : 0.530, Current_norm_ED  : 0.00
+Best_accuracy    : 0.530, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ZeeP&D IKBALTOKO          |                           | 0.0000	False
+IDUL FITRISATYADHARMA     |                           | 0.0000	False
+KELUARGABERENCANA         |                           | 0.0000	False
+YukNabungSaham            |                           | 0.0000	False
+ANTAI KUT                 |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 10.71952, Valid loss: 9.03995, Elapsed_time: 5.67931
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+amanplast                 | �����г����������гγγ��������γ����γγ����г��� | 0.0000	False
+JASA RAHARJA              | ��������3���������������������������������������� | 0.0000	False
+ANUGERAHAIANANAKANAK &    | �������������������������������γ������������г��� | 0.0000	False
+PRAMBANAN                 | ��������������������������Ы���������������������� | 0.0000	False
+SINDO FERRY               | ���������������������������гγγ����г����������� | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 10.09822, Valid loss: 8.88110, Elapsed_time: 5.71969
+Current_accuracy : 0.000, Current_norm_ED  : 0.01
+Best_accuracy    : 0.000, Best_norm_ED     : 0.01
+[1/1] Train loss: 10.09822, Valid loss: 8.88110, Elapsed_time: 5.55533
+Current_accuracy : 0.000, Current_norm_ED  : 0.01
+Best_accuracy    : 0.000, Best_norm_ED     : 0.01
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+시간당논문에따르면궁동점행위는천연기념물로인해   | 즉퓰렬로궂즉돝로궂궂궂궂궂ラララ찌ラ렬즉궂궂궂ðð | 0.0000	False
+유재동모두일본의국력이등을세워탑을지지해줄있다.  | 출출출출출출출출출즉建렬출출출厦厦厦렬넹렬렬必必캘 | 0.0000	False
+자연환경등을                    | 렬렬輓출출^^^衡샌^렬출厦厦厦샌렬렬^출즉퓰캘屋 | 0.0000	False
+내놓을차례에같다고버리지주셔서쓰레기를이수형    | 궂궂屋輓輓즉즉렬즉즉출屋붇출출구렬렬로屋즉즉輓출캘 | 0.0000	False
+덕수궁길신용카드세기의대결             | 이建輓輓궂렬屋궂궂궂궂렬短출로로로로로렬즉즉로즉출 | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 10.37001, Valid loss: 9.17983, Elapsed_time: 17.99753
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ほっとハウスタクシー15両れる。時計台       | 襪廟凱と窟垣垣窟垣垣窟栄！垣垣垣垣垣垣垣窟垣垣垣垣 | 0.0000	False
+はたらくみかんワイン北海道]ン           | とととと！！！！！！！！！！垣！垣垣垣垣！垣垣垣窟 | 0.0000	False
+ワ仁ユーナー黒豚しやぶはフさ            | 凱！！！垣垣垣垣垣軌末垣！垣垣垣垣垣垣垣凱垣垣垣窟 | 0.0000	False
+密」が溢れ出た。新清水站日本橋           | とと街！！と！！！！！！！！窟！窟と垣垣！垣垣！！ | 0.0000	False
+スタッフ中原区                   | とととと袈袈ととと袈末形窟形形窟形形形窟廟袈袈袈！ | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 9.65327, Valid loss: 8.48282, Elapsed_time: 20.06762
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+稻花                        | 逸                         | 0.0156	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 5.89938, Valid loss: 4.44874, Elapsed_time: 18.24308
+Current_accuracy : 0.000, Current_norm_ED  : 0.08
+Best_accuracy    : 0.000, Best_norm_ED     : 0.08
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+التوفيرهذا                | ااااااiiااiiااااااااااااا | 0.0000	False
+أماموضعهاحصة٢٠١           | اااااااiااiiااااااااااااا | 0.0000	False
+حتى                       | اkyاااقyاااشااااااششاiااا | 0.0000	False
+الهواتف                   | اششااارشااارراااارااااyأ/ | 0.0000	False
+لنافيتقامصاحب             | ااااااkانkkkاااششاااااااا | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 5.89938, Valid loss: 4.44874, Elapsed_time: 5.80440
+Current_accuracy : 0.000, Current_norm_ED  : 0.08
+Best_accuracy    : 0.000, Best_norm_ED     : 0.08
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+التوفيرهذا                | ااااااiiااiiااااااااااااا | 0.0000	False
+أماموضعهاحصة٢٠١           | اااااااiااiiااااااااااااا | 0.0000	False
+حتى                       | اkyاااقyاااشااااااششاiااا | 0.0000	False
+الهواتف                   | اششااارشااارراااارااااyأ/ | 0.0000	False
+لنافيتقامصاحب             | ااااااkانkkkاااششاااااااا | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 10.37001, Valid loss: 9.17983, Elapsed_time: 5.80942
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ほっとハウスタクシー15両れる。時計台       | 襪廟凱と窟垣垣窟垣垣窟栄！垣垣垣垣垣垣垣窟垣垣垣垣 | 0.0000	False
+はたらくみかんワイン北海道]ン           | とととと！！！！！！！！！！垣！垣垣垣垣！垣垣垣窟 | 0.0000	False
+ワ仁ユーナー黒豚しやぶはフさ            | 凱！！！垣垣垣垣垣軌末垣！垣垣垣垣垣垣垣凱垣垣垣窟 | 0.0000	False
+密」が溢れ出た。新清水站日本橋           | とと街！！と！！！！！！！！窟！窟と垣垣！垣垣！！ | 0.0000	False
+スタッフ中原区                   | とととと袈袈ととと袈末形窟形形窟形形形窟廟袈袈袈！ | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 6.62174, Valid loss: 5.08301, Elapsed_time: 17.80552
+Current_accuracy : 0.000, Current_norm_ED  : 0.04
+Best_accuracy    : 0.000, Best_norm_ED     : 0.04
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+তাকিবাড়িরপরিবেশবারবার     | কককংংংংংকললননটলকc'লককলললল | 0.0000	False
+করতেরাখবেঅথচকরেভালবলা।    | ংং়ক0ংংংং১ংংংংংংতংংংংংংংং | 0.0000	False
+অল্পপারে                  | কলললটটলললললটটটলললনললললাটল | 0.0000	False
+ঘটলতারিখমঞ্চেখনি,নাম      | ললললক+়টটলললটটটটংটংংংংাংং | 0.0000	False
+নেইতেলহলে                 | লললল"ললকলললএটলললনলল১ালললভ | 0.0000	False
+--------------------------------------------------------------------------------
+[1/1] Train loss: 5.89938, Valid loss: 4.44874, Elapsed_time: 5.81868
+Current_accuracy : 0.000, Current_norm_ED  : 0.08
+Best_accuracy    : 0.000, Best_norm_ED     : 0.08
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+التوفيرهذا                | ااااااiiااiiااااااااااااا | 0.0000	False
+أماموضعهاحصة٢٠١           | اااااااiااiiااااااااااااا | 0.0000	False
+حتى                       | اkyاااقyاااشااااااششاiااا | 0.0000	False
+الهواتف                   | اششااارشااارراااارااااyأ/ | 0.0000	False
+لنافيتقامصاحب             | ااااااkانkkkاااششاااااااا | 0.0000	False
+--------------------------------------------------------------------------------
